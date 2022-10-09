@@ -47,7 +47,6 @@ exports[`Contact component matches snapshot DOM node structure 1`] = `
         />
       </div>
       <button
-        data-testid="button"
         type="submit"
       >
         Submit

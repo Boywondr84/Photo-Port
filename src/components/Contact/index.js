@@ -54,7 +54,7 @@ const ContactForm = () => {
                     </div>
                 )}
                 </div>
-                <button type="submit" h2 data-testid="button">Submit</button>
+                <button type="submit">Submit</button>
             </form>
         </section>
     )
